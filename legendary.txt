@@ -15,7 +15,13 @@ And on, and on, and on
 'Cause we're gonna be legends
 Gonna get their attention
 What we're doing here ain't just scary
+<<<<<<< HEAD
 This is about to be legendary
+=======
+William about to be legendary
+Josh about to be legendary
+Daniel is about to be legendary
+>>>>>>> 2890e1aef6e68900f03b57906bdf2611d406258c
 Yeah, we're gonna be legends
 Gonna teach 'em all a lesson
 Got this feeling in our souls we carry
